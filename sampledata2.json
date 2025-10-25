@@ -1,0 +1,247 @@
+{
+    "letterDetails": {
+        "dateOfLoss": "May 24, 2024",
+        "formattedDateOfLetter": "October 22, 2025",
+        "formattedRespondByDate": "Friday, November 28, 2025"
+    },
+    "attorney": {
+        "email": "wile.e.coyote@acme-gizmo-liability.com",
+        "website": "www.acme-gizmo-liability.com",
+        "streetAddress": "P.O. Box 140 (Explosives Division)",
+        "city": "Agua Dulce",
+        "stateCode": "CA",
+        "fullStateName": "California",
+        "zipCode": "91390",
+        "phoneNumber": "928.555.1234",
+        "faxNumber": "928.555.9876"
+    },
+    "clientInfo": {
+        "fullName": "Elmer Fudd",
+        "firstName": "Elmer",
+        "lastName": "Fudd",
+        "pronoun1": "he",
+        "pronoun2": "her",
+        "title": "Ms."
+    },
+    "adverseInsuranceAdjusterInfo": {
+        "title": "Mr.",
+        "pronoun1": "he",
+        "pronoun2": "his",
+        "fullName": "Brock (The Block) Hardcastle",
+        "firstName": "Brock (The Block)",
+        "lastName": "Hardcastle",
+        "companyName": "C. Y. A. Catastrophe & Annuity, Inc.",
+        "streetAddress": "P.O. Box 99 (Zero-Payout Division)",
+        "city": "Denial Heights",
+        "fullStateName": "Delaware",
+        "zipCode": "19800",
+        "email": "claims@cya-denies.com",
+        "claimNumber": "FUDD-FAIL-404-NO-PAY"
+    },
+    "paragraphs": [
+        {
+            "text": "This letter shall serve as a statement of Elmer Fudd's damages as a result of the above-referenced loss. Enclosed for your review, please find a copy of medical and billing records reflecting the treatment he received as a result of her collision caused by your insured.",
+            "type": "paragraph"
+        },
+        {
+            "text": "On May 24, 2024, Mr. Fudd was a passenger in the front seat of his wife's vehicle in the city of Agua Dulce, state of California.{footnote}   They were stopped at a traffic light on Dust Devil and Saguaro Junction Highway with no vehicles in front of them when suddenly they heard a huge slam from behind.  Your insured, driving a Prius, had crashed into the rear of their vehicle with significant force.  Following the collision, your insured appeared frantic and had difficulty exiting her vehicle.  Mr. Fudd had to calm your insured, who admitted it was her first accident and apologized for the incident.  As a result of the force and nature of the impact, Mr. Fudd sustained bodily injuries necessitating medical attention.",
+            "type": "paragraph",
+            "footnote": "Mr. Fudd's wife was driving the vehicle at the time of the collision, but he is not making an injury claim, at least to the best of my knowledge."
+        },
+        {
+            "text": "After the accident occurred, Mr. Fudd experienced immediate shock followed by escalating soreness and pain in her neck and upper back that progressively worsened throughout the day.  Despite attempting to manage her symptoms with rest and over-the-counter medications at home, Mr. Fudd sought relief through massage therapy at Moe N' Larry's Wellness Spa, but only experienced temporary relief from her increasingly debilitating neck, shoulder, and mid-back pain.{footnote}   The persistent and intensifying nature of her symptoms ultimately led Mr. Fudd to seek professional medical evaluation from Dr. Boneaparte (Bones) Cracker at Acme Spinal Adjustments Center, where he presented with severe neck pain (described as a dull ache with tightness, particularly on the left side), significant shoulder discomfort, and substantial mid-back pain.",
+            "type": "paragraph",
+            "footnote": "Mr. Fudd has continued to seek massage therapy treatments as her pain has flared up and will continue to require these treatments for an indefinite period of time to manage her ongoing discomfort."
+        },
+        {
+            "text": "Upon conducting his evaluation, Dr. Cracker discovered palpable tenderness and muscle spasms in Mr. Fudd's cervical, thoracic, and lumbar regions.  Range of motion testing revealed significant limitations throughout her spine, with cervical motion restricted to approximately 67% of normal and lumbar motion limited to just 50% of normal range.  X-rays taken during the initial evaluation revealed a loss of normal cervical lordosis, while orthopedic testing was positive for Cervical Compression Test, Distraction Test, Shoulder Depression Test, Single Leg Raise Test, Bilateral Leg Raise Test, Milgrim's Test, and Kemp's Test, all reproducing her chief complaints.  Mr. Fudd was diagnosed with the following:",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "type": "bullet",
+            "text": "A Cervical Sprain due to a Motor Vehicle Accident;",
+            "bulletInstance": 1
+        },
+        {
+            "type": "bullet",
+            "text": "A Thoracic Ligamentous Sprain due to a Motor Vehicle Accident;",
+            "bulletInstance": 1
+        },
+        {
+            "type": "bullet",
+            "text": "Muscle Spasms in her Back;",
+            "bulletInstance": 1
+        },
+        {
+            "type": "bullet",
+            "text": "Cervical Segmental Dysfunction;",
+            "bulletInstance": 1
+        },
+        {
+            "type": "bullet",
+            "text": "Thoracic Segmental Dysfunction; and",
+            "bulletInstance": 1
+        },
+        {
+            "type": "bullet",
+            "text": "Lumbar Segmental Dysfunction.",
+            "bulletInstance": 1
+        },
+        {
+            "text": "As a result of the above, Dr. Cracker recommended that Mr. Fudd receive chiropractic rehabilitation treatment with physical therapy modalities including electrical muscle stimulation, mechanical vibrational massage, ultrasound, and traction.  He was also prescribed an at-home therapeutic exercise program consisting of active range of motion exercises and passive stretches for her neck and lower back muscles.  Mr. Fudd was released from care on October 4, 2024, with only slight improvement in her pain as tightness over the upper trapezius muscles and around spinal areas still persisted.",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "text": "While receiving care from Dr. Cracker, Mr. Fudd was referred to The Anvil-Free Imaging Center to obtain an MRI of her cervical spine on September 5, 2024.  The MRI revealed significant abnormalities including a broad-based disc extrusion at her C5-C6 region which measured approximately 3 mm in AP dimension and extended 2 to 3 mm below the disc space with mild to moderate spinal canal narrowing and mild ventral cord flattening.  Additionally, there was facet arthropathy and uncovertebral hypertrophy with mild to moderate left and mild right neural foraminal narrowing at her C5-C6 region.  The MRI also showed a broad-based 2 mm disc bulge at her C4-C5 region with mild spinal canal narrowing, a 1-2 mm disc bulge at her C6-C7 region without significant spinal canal narrowing, and mild left neural foraminal narrowing at her C3-C4 region.  There was also mild reversal of the normal cervical lordosis and mild C5-C6 retrolisthesis.",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "text": "In light of the MRI findings, Mr. Fudd was referred to Dr. Percival (Patch) Palliative, a board-certified physician in Physical Medicine & Rehabilitation, with The TNT Triage & Numbness Center of Agua Dulce.  On October 3, 2024, Mr. Fudd initially consulted with Dr. Palliative for evaluation of persistent neck pain following her motor vehicle accident.  He described her neck pain as aching, tight, and intermittent at a rate of 5/10, with the left side of her neck being more painful than the right side.  Mr. Fudd reported that her pain was worse in the morning, though he could not identify specific aggravating factors.  He mentioned that massages and stretching provided some relief.  Mr. Fudd explained that while he remained independent with her activities of daily living, he was no longer able to lift weights due to the pain and needed to take frequent breaks while working remotely as an IT manager.",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "text": "Dr. Palliative's evaluation revealed significant physical limitations due to Mr. Fudd's pain condition.  During the examination, the doctor found positive results for Cervical Facet Loading on the left side, indicating inflammation in the cervical facet joints.  Dr. Palliative conducted a thorough neurological examination, which showed diminished deep tendon reflexes throughout the upper extremities, though muscle strength remained intact.  The doctor also performed specialized orthopedic testing to assess Mr. Fudd's range of motion and pain response.  After reviewing the results of Mr. Fudd's MRI, Dr. Palliative diagnosed him with the following:",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "type": "bullet",
+            "text": "Cervical Facet Syndrome;",
+            "bulletInstance": 2
+        },
+        {
+            "type": "bullet",
+            "text": "Cervical Herniated Disc; and",
+            "bulletInstance": 2
+        },
+        {
+            "type": "bullet",
+            "text": "Cervical Canal Stenosis.",
+            "bulletInstance": 2
+        },
+        {
+            "text": "In light of his findings, Dr. Palliative suggested that Mr. Fudd continue with chiropractic therapy for her cervical spine, which included treatments with superficial modalities, range of motion exercises, stretching, and strengthening exercises.  He also recommended Extracorporeal Shockwave Therapy (ESWT) as a non-invasive treatment option for her cervical spine pain.  During her follow-up telehealth appointment on October 10, 2024, Mr. Fudd decided to proceed with ESWT treatments.  He began her first ESWT session on October 29, 2024, receiving 1500 pulses at level 9 intensity for 15 minutes to her cervical spine.  He continued with her second treatment on November 5, 2024, though he reported no significant improvement after her first session.  By her third ESWT treatment on November 7, 2024, Mr. Fudd noted improvement in her condition.  Mr. Fudd followed up with Dr. Palliative on November 12, 2024, stating that the most recent visits mentioned above proved to be effective so he decided to discontinue her treatment for the time being and will return down the road should her pain flare back up.",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "text": "As a result of Mr. Fudd's collision caused by your insured, her life and lifestyle have been negatively impacted in the following ways:",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "type": "bulletBold",
+            "text": "Physical limitations forced Mr. Fudd to pause her Crossfit fitness classes as he could not lift heavy weights, significantly disrupting her established workout routine that was important to her overall well-being.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Sleep was severely compromised as he could not sleep throughout the night due to neck discomfort, often waking up with a sore neck, which affected her daily energy levels and ability to function normally.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Emotional distress manifested as anxiety, traumatic memories, and depression, putting him in a constant fight or flight mode where he could not relax and was constantly worried about getting hit again while driving.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "The accident negatively impacted her marriage through increased arguments, inability to be her best self, and additional caregiving responsibilities his wife had to assume during her recovery period.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Social withdrawal became evident as Mr. Fudd no longer wanted to be social, feeling isolated and disconnected from his wife, friends, and family during what should have been normal social interactions.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Considerable time was lost from family activities as he was required to attend numerous medical appointments including chiropractic sessions, pain management doctor appointments, massage therapy, and yoga sessions.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Mr. Fudd was unable to attend her daughter's after-school activities, which disrupted family routines and created tension, especially with his daughter who wanted to spend more time with her father.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Daily household duties and responsibilities became impossible to fulfill, including washing dishes, taking out the trash, sweeping the kitchen, and cleaning the bathrooms.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Work performance suffered as he could not sit for long periods during work meetings due to soreness and pain, creating professional setbacks and additional stress.",
+            "bulletInstance": 3
+        },
+        {
+            "type": "bulletBold",
+            "text": "Mental focus at work was significantly compromised for several weeks following the accident, forcing him to spend extra time catching up with work responsibilities during the week of the accident.",
+            "bulletInstance": 3
+        },
+        {
+            "text": "The total cost of Mr. Fudd's treatment as a result of the collision at issue is <b>$13,960.20</b>, and is broken down as follows:",
+            "type": "paragraph"
+        },
+        {
+            "type": "bullet",
+            "text": "Massages - $545.00;",
+            "footnote": "",
+            "bulletInstance": 4
+        },
+        {
+            "type": "bullet",
+            "text": "The Anvil-Free Imaging Center - $2,243.00;",
+            "footnote": "",
+            "bulletInstance": 4
+        },
+        {
+            "type": "bullet",
+            "text": "Acme Spinal Adjustments Center - $4,630.00; and",
+            "footnote": "",
+            "bulletInstance": 4
+        },
+        {
+            "type": "bullet",
+            "text": "The TNT Triage & Numbness Center of Agua Dulce - $6,542.20.{footnote}",
+            "footnote": "The charges for the late rescheduling noted on the invoice have been removed from the figure noted above.",
+            "bulletInstance": 4
+        },
+        {
+            "text": "Factoring in the discomfort, uneasiness, and inconvenience Mr. Fudd experienced, along with her pain and suffering, the nature of the trauma he sustained, the effect of the collision on her day-to-day life (as described in detail above), her likely need for future care (particularly in light of the results of her MRI showing a 3mm disc extrusion at C5-C6 with moderate spinal canal narrowing and mild ventral cord flattening), and her greater susceptibility to future injuries of the type he sustained, Mr. Fudd requests <b>$50,000.00</b> in exchange for a full and complete release of any and all liability resulting from the above-referenced loss.",
+            "type": "paragraph",
+            "footnote": ""
+        },
+        {
+            "type": "pageBreak"
+        },
+        {
+            "text": "Please respond to the above request by no later than <b><u>Friday, November 28, 2025.</u></b>",
+            "type": "paragraph"
+        },
+        {
+            "text": "Should you have any questions or concerns, please feel free to contact me.",
+            "type": "paragraph"
+        },
+        {
+            "text": "\t\t\t\t\tSincerely,",
+            "type": "paragraph"
+        },
+        {
+            "text": "\t\t\t\t\t<b><i>/s/ Wile E. Coyote</i></b>",
+            "type": "paragraph"
+        },
+        {
+            "text": "\t\t\t\t\tSAMIR I. SHETH",
+            "type": "paragraph"
+        },
+        {
+            "text": "Encl.: As stated",
+            "type": "encl"
+        }
+    ]
+}
