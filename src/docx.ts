@@ -48,7 +48,8 @@ const program = new Command();
         .description('A simple CLI that takes in a JSON data file and writes a settlement demand letter using the data.')
         .version('1.0.0')
         .option('-d, --data <path to datafile>', 'Define the path to the data file')
-        .option('-l, --logo <path to image file for logo>', 'Provide the path to the image file to be used for the logo');
+        .option('-l, --logo <path to image file for logo>', 'Provide the path to the image file to be used for the logo')
+        .option('-o, --output <path to output>','Provide the path to the output directory');
 
     // program.option('-v, --verbose', 'enable verbose output');
     // program.option('-n, --name <name>', 'specify a name');
@@ -905,10 +906,19 @@ class Docx {
 
 
 }
-
+function formatDateForFilename(date = new Date()) {
+  return date.toISOString()
+    .replace(/:/g, '-')     // Replace colons with hyphens
+    .replace(/\..+$/, '')   // Remove milliseconds
+    .replace('T', '_');     // Replace T with underscore
+}
+console.log(options);
 const doc = new Docx(options.logo, options.data);
 const document = await doc.buildDocument();
 Packer.toBuffer(document).then((buffer) => {
-    fs.writeFileSync("New Document.docx", buffer);
+    const fileName = `letter_${formatDateForFilename()}.docx`;
+
+    const filePath = path.join(__dirname,options.output,fileName);
+    fs.writeFileSync(filePath, buffer);
 });
 // doc.getFootnotes();
