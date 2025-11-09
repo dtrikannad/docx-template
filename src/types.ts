@@ -16,6 +16,7 @@ export interface AccidentData {
         formattedDateOfLetter: string
     },
     attorney: {
+        attorneyFullName: string,
         email: string,
         website: string,
         streetAddress: string,
@@ -24,7 +25,7 @@ export interface AccidentData {
         fullStateName: string,
         zipCode: string,
         phoneNumber: string,
-        faxNumber: string
+        faxNumber?: string
     },
     clientInfo: {
         fullName: string,

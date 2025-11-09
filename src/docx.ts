@@ -79,7 +79,7 @@ const program = new Command();
 
 class Docx {
     private logoPath: string;
-    private logoBuffer: NonSharedBuffer;
+    private logoBuffer: Buffer;
     private logoImageType!: ImageTypeResult;
     private accidentDatapath: string;
     private accidentData!: AccidentData;
@@ -117,6 +117,7 @@ class Docx {
 
     constructor(logoPath: string, accidentDataPath: string) {
         this.logoPath = path.join(__dirname,'../', logoPath);
+        
         this.accidentDatapath = path.join(__dirname,'../', accidentDataPath);
         this.logoBuffer = fs.readFileSync(this.logoPath);
         this.originalLogoDimensions = sizeOf(this.logoBuffer);
@@ -128,13 +129,45 @@ class Docx {
             width: Math.round((this.calcSizeFromInches(this.heightOfHeaderImage) / this.originalLogoDimensions.height) * this.originalLogoDimensions.width),
             height: this.calcSizeFromInches(this.heightOfHeaderImage)
         }
+
     }
+
+    // constructor(jsonData: AccidentData, logoBuffer: Buffer, headerImageBuffer?: Buffer) {
+    //     this.logoBuffer = logoBuffer;
+    //     this.accidentData = jsonData;
+
+
+    //     this.originalLogoDimensions = sizeOf(this.logoBuffer);
+    //     this.desiredLogoDimensionsForTitle = { 
+    //         width: this.calcSizeFromInches(this.widthOfTitleImage), 
+    //         height: Math.round((this.calcSizeFromInches(this.widthOfTitleImage) / this.originalLogoDimensions.width) * this.originalLogoDimensions.height) 
+    //     };
+    //     this.desiredLogoDimensionsForHeader = {
+    //         width: Math.round((this.calcSizeFromInches(this.heightOfHeaderImage) / this.originalLogoDimensions.height) * this.originalLogoDimensions.width),
+    //         height: this.calcSizeFromInches(this.heightOfHeaderImage)
+    //     }
+    //     if(headerImageBuffer) {
+    //         this.headerImageBuffer = headerImageBuffer;
+    //     } else {
+    //         this.headerImageBuffer = logoBuffer;
+    //     }
+    //     this.originalHeaderImageDimensions = sizeOf(this.headerImageBuffer);
+    //     this.desiredHeaderImageDimensionsForTitle = { 
+    //         width: this.calcSizeFromInches(this.widthOfTitleImage), 
+    //         height: Math.round((this.calcSizeFromInches(this.widthOfTitleImage) / this.originalHeaderImageDimensions.width) * this.originalHeaderImageDimensions.height) 
+    //     };
+    //     this.desiredHeaderImageDimensionsForHeader = {
+    //         width: Math.round((this.calcSizeFromInches(this.heightOfHeaderImage) / this.originalHeaderImageDimensions.height) * this.originalLogoDimensions.width),
+    //         height: this.calcSizeFromInches(this.heightOfHeaderImage)
+    //     }
+    // }
 
     private async initialize(): Promise<void> {
         this.logoImageType = (await imageType(this.logoBuffer))!
+
         this.accidentData = JSON.parse(fs.readFileSync(this.accidentDatapath, 'utf8'));
-        this.headerLogo = await this.makeHeaderLogo();
         this.titlePageLogo = await this.makeTitlePageLogo();
+        this.headerLogo = await this.makeHeaderLogo();
     }
 
     private async makeTitlePageLogo(): Promise<ImageRun> {

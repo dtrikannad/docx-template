@@ -5,7 +5,7 @@
         "formattedRespondByDate": "Friday, December 19, 2025"
     },
     "attorney": {
-        "attorneyFullName": "Deepak P. Trikannad",
+        "attorneyFullName": "Deep Trikannad",
         "email": "deep.trikannad@acceledgy.com",
         "website": "www.trikannad.com",
         "streetAddress": "158 Church Place",
@@ -14,7 +14,7 @@
         "fullStateName": "California",
         "zipCode": "92602",
         "phoneNumber": "949.954.0033",
-        "faxNumber": "619.252.3337"
+        "faxNumber": ""
     },
     "clientInfo": {
         "fullName": "Kristine Allen",
@@ -45,17 +45,17 @@
             "type": "paragraph"
         },
         {
-            "text": "On May 24, 2024, Ms. Allen was a passenger in her husband's vehicle traveling on Alton and Irvine Boulevard in the city of Irvine, state of California.  As they were stopped at a traffic light, with no vehicles in front of them, their vehicle was suddenly struck from behind by your insured driving a Prius.  The impact was so forceful that it resulted in a \"huge slam,\" as described by Ms. Allen.  Following the collision, your insured appeared frantic and was having difficulty exiting their vehicle, requiring Ms. Allen to assist in calming them down.  The parties exchanged information as police were called but did not respond to the scene.  As a result of the force and nature of the impact, Ms. Allen sustained bodily injuries necessitating medical attention.",
+            "text": "On May 24, 2024, Ms. Allen was a passenger in the front seat of her husband's vehicle in the city of Irvine, state of California.{footnote}   They were stopped at a traffic light on Alton and Irvine Boulevard with no vehicles in front of them when suddenly they heard a huge slam as a Prius crashed into the rear of their vehicle.  The impact was so severe that Ms. Allen had to exit the vehicle to check on the other driver, who was frantic and having difficulty getting out of her car.  Your insured, who had difficulty speaking English, admitted she had never been in an accident before and apologized for the collision.  As a result of the force and nature of the impact, Ms. Allen sustained bodily injuries necessitating medical attention.",
             "type": "paragraph",
-            "footnote": ""
+            "footnote": "Ms. Allen's husband was also present in the vehicle as the driver, but he does not appear to be making an injury claim, at least to the best of my knowledge."
         },
         {
-            "text": "After the accident occurred, Ms. Allen experienced immediate shock followed by severe pain and discomfort in her neck, shoulders, and mid back, which intensified throughout the day, manifesting as a dull ache with muscle tightness.  To alleviate her worsening symptoms, she attempted self-care including rest and over-the-counter medications, and sought a therapeutic massage at Jasmine Wellness Spa on June 7, 2024, which provided only temporary relief.{footnote}   Unable to manage the persistent pain on her own, Ms. Allen subsequently sought professional medical treatment from Dr. John Chi-Chang Chen at Compassion Chiropractic, where she presented with significant neck, shoulder, and mid back pain, describing her discomfort as a dull ache with pronounced muscle tightness.",
+            "text": "After the accident occurred, Ms. Allen experienced shock followed by increasing soreness in her neck and upper back that progressively worsened throughout the day.  Despite her attempts at self-care through rest, over-the-counter medications, and massage therapy, her pain continued to intensify, compelling her to seek professional medical attention from Dr. John Chi-Chang Chen at Compassion Chiropractic.{footnote}   During her initial evaluation on June 20, 2024, Ms. Allen reported suffering from neck pain with more severity on the left side, bilateral shoulder pain that was also more pronounced on the left side, and significant mid-back discomfort, all of which were described as dull, aching sensations accompanied by muscle tightness.",
             "type": "paragraph",
-            "footnote": "Ms. Allen has had to seek massage therapy as her pain flares up and will continue to do so for an indefinite period of time."
+            "footnote": "Ms. Allen sought massage therapy at Jasmine Wellness Spa as her pain flared up and will continue to do so for an indefinite period of time."
         },
         {
-            "text": "Upon conducting his evaluation, Dr. Chen found palpable tenderness and muscle spasms in the cervical, thoracic, and lumbar regions, with significant limitations in range of motion throughout these areas.  X-rays revealed a loss of cervical lordosis, though bone density appeared adequately maintained with no evidence of fracture or dislocation.  Ms. Allen tested positive for the Cervical Compression Test, Distraction Test, Shoulder Depression Test, Single Leg Raise Test, Bilateral Leg Raise Test, Milgrim's Test, and Kemp's Test, all of which reproduced her chief complaints.  Ms. Allen was diagnosed with the following:",
+            "text": "Upon conducting his evaluation, Dr. Chen found palpable tenderness and muscle spasms in Ms. Allen's cervical, thoracic, and lumbar regions, with specific tenderness noted at several spinal levels.  Range of motion testing revealed significant limitations throughout her spine, with all movements producing pain and muscle spasms.  Orthopedic examinations showed positive results for the Cervical Compression Test, Distraction Test, Shoulder Depression Test, Single Leg Raise Test, Bilateral Leg Raise Test, Milgrim's Test, and Kemp's Test, all of which reproduced Ms. Allen's chief complaints.  X-rays of the cervical and lumbar spine revealed a loss of cervical lordosis, though no fractures or dislocations were present.  Ms. Allen was diagnosed with the following:",
             "type": "paragraph",
             "footnote": ""
         },
@@ -66,7 +66,7 @@
         },
         {
             "type": "bullet",
-            "text": "A Thoracic Ligamentous Sprain from the Motor Vehicle Accident;",
+            "text": "A Thoracic Ligamentous Sprain due to a Motor Vehicle Accident;",
             "bulletInstance": 1
         },
         {
@@ -90,22 +90,22 @@
             "bulletInstance": 1
         },
         {
-            "text": "As a result of the above, Dr. Chen recommended that Ms. Allen receive chiropractic rehabilitation program consisting of manual joint manipulation, soft tissue manipulation, and cervical spine distraction.  She was also prescribed physical therapy modalities including electrical muscle stimulation, mechanical vibrational massage, ultrasound, and mechanical traction.  Ms. Allen was additionally instructed to follow an at-home therapeutic exercise program of active range of motion exercises for the cervical and lumbar spine, along with passive stretches for the neck and lower back muscles.  She was released from care on October 4, 2024, with only slight improvement in her pain as Ms. Allen still experienced tightness over the upper trapezius muscles and tenderness in the neck and mid back regions.",
+            "text": "As a result of the above, Dr. Chen recommended that Ms. Allen receive chiropractic rehabilitation including joint manipulation, soft tissue manipulation, cervical spine distraction, and physical therapy modalities such as electrical muscle stimulation, ultrasound, and traction.  He also prescribed a home exercise program consisting of active range of motion exercises for the cervical and lumbar spine along with passive stretches for neck and lower back muscles.  By October 4, 2024, Ms. Allen experienced only slight improvement in her pain as tightness was still evident over the upper trapezius muscles and at spinal levels C6, C7, T1 and L5.",
             "type": "paragraph",
             "footnote": ""
         },
         {
-            "text": "While receiving care from Dr. Chen, Ms. Allen was referred to SimonMed to obtain an MRI of her cervical spine on September 5, 2024.  The MRI revealed significant abnormalities including a 3 mm disc extrusion at her C5-C6 region with mild to moderate spinal canal narrowing and mild ventral cord flattening.  Additionally, the imaging showed a 2 mm disc bulge at her C4-C5 region with mild spinal canal narrowing, a 1-2 mm disc bulge at her C6-C7 region, and mild left neural foraminal narrowing at her C3-C4 region.  The MRI also revealed mild reversal of the normal cervical lordosis and mild C5-C6 retrolisthesis, all findings consistent with the trauma sustained in the collision.",
+            "text": "While receiving care from Dr. Chen, Ms. Allen was referred to SimonMed to obtain an MRI of her cervical spine on September 5, 2024.  The MRI revealed significant findings including a 3 mm disc extrusion at her C5-C6 region with mild to moderate spinal canal narrowing and mild ventral cord flattening.  Additionally, there was mild to moderate left neural foraminal narrowing and mild right neural foraminal narrowing at this same level.  The MRI also showed a broad-based 2 mm disc bulge at her C4-C5 region with mild spinal canal narrowing, as well as a 1-2 mm disc bulge at her C6-C7 region without significant spinal canal narrowing.  Further findings included mild left neural foraminal narrowing at her C3-C4 region, mild reversal of the normal cervical lordosis, and mild C5-C6 retrolisthesis.",
             "type": "paragraph",
             "footnote": ""
         },
         {
-            "text": "In light of the MRI findings, Ms. Allen was referred to Dr. Khyber Zaffarkhan, a board-certified physician in Physical Medicine & Rehabilitation, with Regenerative Institute of Newport Beach.  On October 3, 2024, Ms. Allen initially consulted with Dr. Zaffarkhan presenting with neck pain following the motor vehicle accident that occurred on May 24, 2024.  She described her neck pain as aching, tight, and intermittent at a rate of moderate intensity, with the left side being worse than the right side.  Ms. Allen reported the pain was worse in the morning, though she could not identify specific aggravating factors.  She indicated that massages and stretching provided some relief.  Ms. Allen explained that while she remained independent with her activities of daily living, she was no longer able to lift weights due to the pain and needed to take frequent breaks while working remotely as an IT manager.",
+            "text": "In light of the MRI findings, Ms. Allen was referred to Dr. Khyber Zaffarkhan, a board-certified physician in Physical Medicine & Rehabilitation, with Regenerative Institute of Newport Beach.  On October 3, 2024, Ms. Allen initially consulted with Dr. Zaffarkhan and described persistent neck pain following the motor vehicle accident on May 24, 2024.  She characterized her neck pain as aching, tight, and intermittent at a level of moderate intensity, with the left side worse than the right.  Ms. Allen reported that her pain was typically worse in the morning, though she could not identify specific aggravating factors.  She indicated that massages and stretching provided some relief from her discomfort.  While her pain had improved somewhat with chiropractic therapy, she continued to experience persistent cervical discomfort.  Ms. Allen also reported functional limitations, noting that she was no longer able to lift weights due to her pain, and that her work as an IT manager was impacted as she required frequent breaks due to her neck pain.",
             "type": "paragraph",
             "footnote": ""
         },
         {
-            "text": "Dr. Zaffarkhan's evaluation revealed significant physical limitations due to pain.  Ms. Allen described her neck pain as aching, tight, and intermittent at a moderate intensity level, with the left side being worse than the right side.  Dr. Zaffarkhan conducted a comprehensive physical examination including range of motion testing, deep tendon reflex testing, manual muscle strength assessment, and special tests.  Ms. Allen tested positively for Cervical Facet Loading on the left side.  After reviewing the results of Ms. Allen's MRI, Dr. Zaffarkhan diagnosed her with the following:",
+            "text": "Dr. Zaffarkhan's evaluation revealed significant physical limitations due to pain.  Ms. Allen demonstrated a positive cervical facet loading test on the left side during her physical examination.  The doctor observed that she was no longer able to lift weights due to her pain, and her work as an IT manager was impacted as she required frequent breaks due to her neck pain.  Through his thorough evaluation of her condition and review of the MRI, Dr. Zaffarkhan determined that Ms. Allen's pain was significantly impacting her daily activities despite some improvement through chiropractic care.  After reviewing the results of Ms. Allen's MRI, Dr. Zaffarkhan diagnosed her with the following:",
             "type": "paragraph",
             "footnote": ""
         },
@@ -125,17 +125,12 @@
             "bulletInstance": 2
         },
         {
-            "text": "In light of his findings, Dr. Zaffarkhan suggested that Ms. Allen continue chiropractic therapy for her cervical spine, which included treatment with superficial modalities, range of motion exercises, stretching, and strengthening exercises.  Additionally, he recommended Extracorporeal Shockwave Therapy (ESWT) to the cervical spine for 6-8 sessions as a therapeutic option to address her pain.",
+            "text": "In light of his findings, Dr. Zaffarkhan suggested that Ms. Allen consider Extracorporeal Shockwave Therapy (ESWT) for her cervical spine or potentially cervical facet Platelet-Rich Plasma (PRP) injection if conservative treatments proved ineffective.  After evaluating her options during a telehealth follow-up on October 10, 2024, Ms. Allen elected to proceed with ESWT treatments.",
             "type": "paragraph",
             "footnote": ""
         },
         {
-            "text": "On October 10, 2024, during a telehealth follow-up appointment, Ms. Allen decided to proceed with ESWT treatments after considering her options.  She received her first ESWT session on October 29, 2024, during which she reported her pain level had decreased from moderate to mild immediately after the procedure.",
-            "type": "paragraph",
-            "footnote": ""
-        },
-        {
-            "text": "Ms. Allen underwent her second ESWT treatment on November 5, 2024.  Although she initially reported no significant improvement following the first treatment, her pain had diminished considerably by this appointment.  She then received her third ESWT session on November 7, 2024, reporting continued improvement from the previous treatment.",
+            "text": "Ms. Allen began her ESWT regimen on October 29, 2024, during which she received 1,500 pulses at level 9 intensity and 2.5 Hz frequency to her cervical spine.  The treatment lasted approximately 15 minutes and her pain level decreased from moderate to mild.  She returned for her second ESWT session on November 5, 2024, receiving the same therapeutic protocol, although she reported no significant improvement following her first treatment.  Despite this initial lack of progress, Ms. Allen noted improvement after her third ESWT session conducted on November 7, 2024.",
             "type": "paragraph",
             "footnote": ""
         },
@@ -151,61 +146,61 @@
         },
         {
             "type": "bulletBold",
-            "text": "The physical limitations from the accident forced Ms. Allen to completely pause her CrossFit fitness classes as she could not lift heavy weights, disrupting her regular workout routine that was an important part of her life.",
+            "text": "Physical limitations forced Ms. Allen to pause her Crossfit fitness classes as she could not lift heavy weights, significantly disrupting her established workout routine and overall fitness regimen.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Sleep quality deteriorated significantly as she could not sleep throughout the night due to neck discomfort, often waking up with a sore neck that affected her daily energy levels and mental clarity.",
+            "text": "Sleep was severely compromised due to neck discomfort, causing Ms. Allen to wake up with a sore neck and preventing her from sleeping throughout the night, which contributed to fatigue and diminished daytime functioning.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Driving became an anxiety-inducing experience as she was constantly worried about getting hit again, leaving her in a persistent fight or flight mode that prevented her from relaxing.",
+            "text": "Emotional distress manifested as anxiety, depression, and traumatic memories of the accident, leaving her constantly worried about getting hit again while driving and unable to relax due to being in a persistent fight or flight mode.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Ms. Allen's marriage suffered as the accident led to increased arguments, an inability to be her best self, and a significant shift in caregiving responsibilities that her husband had to take on during her recovery period.",
+            "text": "The accident negatively impacted her marriage through increased arguments, inability to be her best self, and the shifting of caregiving responsibilities to her husband during her recovery period.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Social withdrawal became prominent as she no longer wanted to engage with others, resulting in feelings of isolation and disconnection from her husband, friends, and family during the recovery process.",
+            "text": "Social withdrawal became prominent as Ms. Allen no longer wanted to engage socially, resulting in feelings of isolation and disconnection from her husband, friends, and family.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Family dynamics were disrupted, particularly affecting her relationship with her daughter who wanted to spend more time with her mother but was unable to due to Ms. Allen's condition and recovery requirements.",
+            "text": "Family dynamics were disrupted, particularly affecting her relationship with her daughter who wanted to spend more time with her mother but could not due to Ms. Allen's condition and treatment schedule.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "The accident prevented her from contributing to daily household duties and responsibilities including washing dishes, taking out trash, sweeping the kitchen, and cleaning bathrooms.",
+            "text": "Ms. Allen was unable to attend after-school activities for her daughter, which compromised important parent-child bonding opportunities and participation in her daughter's development.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Extensive time was lost due to required attendance at numerous medical appointments including chiropractic care, pain management doctor visits, massage therapy, and yoga sessions that took valuable time away from her family.",
+            "text": "Household duties and responsibilities such as washing dishes, taking out trash, sweeping the kitchen, and cleaning bathrooms could not be performed, creating additional burden on family members.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Work performance was compromised as she could not sit for long periods during work meetings due to soreness and pain, creating professional challenges during her recovery.",
+            "text": "Work performance suffered as Ms. Allen could not sit for long periods during work meetings due to soreness and pain, creating professional challenges and potential career setbacks.",
             "bulletInstance": 3
         },
         {
             "type": "bulletBold",
-            "text": "Mental focus at work was significantly impaired for several weeks following the accident, requiring her to spend additional time catching up with work responsibilities during the week of the accident.",
+            "text": "Focus and concentration at work were severely compromised for several weeks following the accident, requiring Ms. Allen to spend extra time catching up with work responsibilities.",
             "bulletInstance": 3
         },
         {
-            "text": "The total cost of Ms. Allen's treatment as a result of the collision at issue is <b>$14,600.20</b>, and is broken down as follows:",
+            "text": "The total cost of Ms. Allen's treatment as a result of the collision at issue is <b>$13,960.20</b>, and is broken down as follows:",
             "type": "paragraph"
         },
         {
             "type": "bullet",
-            "text": "Massages - $1,185.00;",
+            "text": "Massages - $545.00;",
             "footnote": "",
             "bulletInstance": 4
         },
@@ -228,7 +223,7 @@
             "bulletInstance": 4
         },
         {
-            "text": "Factoring in the discomfort, uneasiness, and inconvenience Ms. Allen experienced, along with her pain and suffering, the nature of the trauma she sustained, the effect of the collision on her day-to-day life (as described in detail above), her likely need for future care (particularly in light of the results of her MRI showing a 3mm disc extrusion at C5-C6 with moderate spinal canal narrowing), and her greater susceptibility to future injuries of the type she sustained, Ms. Allen requests <b>$50,000.00</b> in exchange for a full and complete release of any and all liability resulting from the above-referenced loss.",
+            "text": "Factoring in the discomfort, uneasiness, and inconvenience Ms. Allen experienced, along with her pain and suffering, the nature of the trauma she sustained, the effect of the collision on her day-to-day life (as described in detail above), her likely need for future care (particularly in light of the results of her cervical MRI showing a 3mm disc extrusion at C5-C6 with moderate spinal canal narrowing and mild ventral cord flattening), and her greater susceptibility to future injuries of the type she sustained, Ms. Allen requests <b>$44,332.51</b> in exchange for a full and complete release of any and all liability resulting from the above-referenced loss.",
             "type": "paragraph",
             "footnote": ""
         },
@@ -248,11 +243,11 @@
             "type": "paragraph"
         },
         {
-            "text": "\t\t\t\t\t<b><i>/s/ Deepak P. Trikannad </i></b>",
+            "text": "\t\t\t\t\t<b><i>/s/ Deep Trikannad </i></b>",
             "type": "paragraph"
         },
         {
-            "text": "\t\t\t\t\tDEEPAK P. TRIKANNAD",
+            "text": "\t\t\t\t\tDEEP TRIKANNAD",
             "type": "paragraph"
         },
         {
