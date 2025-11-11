@@ -49,7 +49,8 @@ const program = new Command();
         .version('1.0.0')
         .option('-d, --data <path to datafile>', 'Define the path to the data file')
         .option('-l, --logo <path to image file for logo>', 'Provide the path to the image file to be used for the logo')
-        .option('-o, --output <path to output>','Provide the path to the output directory');
+        .option('-o, --output <path to output>','Provide the path to the output directory')
+        .option('-n, --name <name of outputfile>','provide name of the output file');
 
     // program.option('-v, --verbose', 'enable verbose output');
     // program.option('-n, --name <name>', 'specify a name');
@@ -116,7 +117,7 @@ class Docx {
     private sectionChildren: Array<any> = [];
     
 
-    constructor(logoPath: string, accidentDataPath: string) {
+    constructor(logoPath: string, accidentDataPath: string, outputFileName?: string) {
         this.logoPath = path.join(__dirname,'../', logoPath);
         
         this.accidentDatapath = path.join(__dirname,'../', accidentDataPath);
@@ -916,7 +917,11 @@ console.log(options);
 const doc = new Docx(options.logo, options.data);
 const document = await doc.buildDocument();
 Packer.toBuffer(document).then((buffer) => {
-    const fileName = `letter_${formatDateForFilename()}.docx`;
+    let fileName;
+    if(options.name)
+        fileName = options.name;
+    else
+        fileName = `letter_${formatDateForFilename()}.docx`;
 
     const filePath = path.join(__dirname,options.output,fileName);
     fs.writeFileSync(filePath, buffer);
