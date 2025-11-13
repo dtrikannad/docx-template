@@ -923,7 +923,7 @@ Packer.toBuffer(document).then((buffer) => {
     else
         fileName = `letter_${formatDateForFilename()}.docx`;
 
-    const filePath = path.join(__dirname,options.output,fileName);
+    const filePath = path.join(options.output,fileName);
     fs.writeFileSync(filePath, buffer);
 });
 // doc.getFootnotes();
