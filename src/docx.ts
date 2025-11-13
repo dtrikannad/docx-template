@@ -118,9 +118,9 @@ class Docx {
     
 
     constructor(logoPath: string, accidentDataPath: string, outputFileName?: string) {
-        this.logoPath = path.join(__dirname,'../', logoPath);
+        this.logoPath = logoPath;
         
-        this.accidentDatapath = path.join(__dirname,'../', accidentDataPath);
+        this.accidentDatapath = accidentDataPath;
         this.logoBuffer = fs.readFileSync(this.logoPath);
         this.originalLogoDimensions = sizeOf(this.logoBuffer);
         this.desiredLogoDimensionsForTitle = { 
@@ -168,6 +168,8 @@ class Docx {
         this.logoImageType = (await imageType(this.logoBuffer))!
 
         this.accidentData = JSON.parse(fs.readFileSync(this.accidentDatapath, 'utf8'));
+        if(Array.isArray(this.accidentData))
+            this.accidentData = this.accidentData[0];
         this.titlePageLogo = await this.makeTitlePageLogo();
         this.headerLogo = await this.makeHeaderLogo();
     }
@@ -923,7 +925,8 @@ Packer.toBuffer(document).then((buffer) => {
     else
         fileName = `letter_${formatDateForFilename()}.docx`;
 
-    const filePath = path.join(options.output,fileName);
+    
+        const filePath = (options.output[0] === '/') ? path.join(options.output,fileName) : path.join(__dirname,options.output,fileName);
     fs.writeFileSync(filePath, buffer);
 });
 // doc.getFootnotes();
