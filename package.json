@@ -13,12 +13,12 @@
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
-    "tsx": "^4.20.6",
     "typescript": "^5.0.0"
   },
   "dependencies": {
     "commander": "^14.0.1",
     "docx": "^9.5.1",
+    "tsx": "^4.20.6",
     "image-size": "^2.0.2",
     "image-type": "^6.0.0"
   }
