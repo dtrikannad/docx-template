@@ -16,10 +16,11 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "aws4fetch": "^1.0.20",
     "commander": "^14.0.1",
     "docx": "^9.5.1",
-    "tsx": "^4.20.6",
     "image-size": "^2.0.2",
-    "image-type": "^6.0.0"
+    "image-type": "^6.0.0",
+    "tsx": "^4.20.6"
   }
 }
